@@ -1,4 +1,4 @@
-# C-final-project
+# C++-final-project
 1.添加模块
 系统可以新增买家，同时店长可以新增图书的信息
 2.显示模块
